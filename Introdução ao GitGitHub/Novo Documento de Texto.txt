@@ -1,0 +1,1 @@
+- Para subir pastas RECEM ADICIONADAS ao GIT é necessario o commit "git add ."
