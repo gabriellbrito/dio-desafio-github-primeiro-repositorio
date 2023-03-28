@@ -1,1 +1,15 @@
-- Para subir pastas RECEM ADICIONADAS ao GIT é necessario o commit "git add ."
+Para subir pastas RECEM ADICIONADAS ao GIT é necessario o commit 
+Criando Repositorio no Git
+
+"NEW REPOSITORY" - criar.
+
+Em uma pasta especifica, lance o "Git Clone" na sua maquina e jogar o html do repositorio, 
+
+"git add ."
+
+E depois
+
+"git push origin main"
+
+
+
